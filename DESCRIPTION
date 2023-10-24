@@ -1,6 +1,6 @@
 Package: progeny
 Title: Pathway RespOnsive GENes for activity inference from gene expression
-Version: 1.23.0
+Version: 1.24.0
 Authors@R: c(
     person(given = "Michael",
            family = "Schubert",
